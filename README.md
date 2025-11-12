@@ -23,9 +23,9 @@ A small Python utility that fetches user data from a public API and prints users
     ```
 
 ## Usage
-Save the script (for example, `filter_users.py`) and run:
+Save the script (for example, `main.py`) and run:
 ```bash
-python filter_users.py
+python main.py
 ```
 
 To change the starting letter, edit the `start_letter` variable in the script, or pass an argument if you add CLI parsing.
